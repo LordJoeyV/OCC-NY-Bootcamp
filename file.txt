@@ -1,0 +1,10 @@
+mkdir - make new folder
+cd - change directory (to go back up one level cd ..)
+rmdir - remove folder
+echo - create file within a folder
+del - delete a file winthin a folder
+rerenn - renames a file in a folder 
+copy - copies a file within a folder
+mv - moves a file from one folder to another
+cls - clear screen
+
